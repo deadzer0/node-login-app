@@ -5,7 +5,7 @@ Login application with NodeJs
 
 1. clone project from github 
 
-2. cd <project>
+2. cd (project name)
 
 3. npm install
 
